@@ -1,0 +1,24 @@
+{
+  "name": "testes-de-spa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viniciuspra/testes-de-spa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viniciuspra/testes-de-spa/issues"
+  },
+  "homepage": "https://github.com/viniciuspra/testes-de-spa#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1",
+    "live-server": "^1.2.2"
+  }
+}
